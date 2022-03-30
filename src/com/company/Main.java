@@ -6,4 +6,8 @@ public class Main {
         System.out.println("hi QA");
         System.out.println("new one");
     }
+    public static void other() {
+        System.out.println("NA");
+    }
+      
 }
